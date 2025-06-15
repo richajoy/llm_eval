@@ -1,6 +1,6 @@
-# Financial Advice Assistant
+# Evaluation Framework For LLM Powered Systems
 
-An example financial advice system that integrates LangChain's QAGenerateChain and QAEvalChain with OpenAI's moderation API to showcase a powerful evaluation and content moderation approach. This methodology can be readily adapted to other LLM-powered systems across various domains requiring content evaluation, safety controls, and quality assurance.
+A comprehensive framework for evaluating and moderating LLM-powered systems using LangChain's QAGenerateChain and QAEvalChain combined with OpenAI's moderation API. The project demonstrates the framework using financial advice as a domain example, but the methodology is designed to be adaptable across various domains requiring robust content evaluation, safety controls, and quality assurance.
 
 ## Features
 
