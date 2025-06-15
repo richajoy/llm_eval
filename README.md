@@ -15,7 +15,7 @@ A comprehensive approaches for evaluating and moderating LLM-powered systems usi
 ## Project Structure
 
 - `investment_advisor.py`: Main application file
-- `financial_docs.py`: Helper module for loading financial documents
+- `financial_docs.py`: Helper module for loading financial documents into vectordb
 - `MODERATION_DOCUMENTATION.md`: Documentation on moderation systems and categories
 - Sample financial documents in the data directory
 
