@@ -1,6 +1,6 @@
-# Evaluation Framework For LLM Powered Systems
+# Evaluation Approaches For LLM Powered Systems
 
-A comprehensive framework for evaluating and moderating LLM-powered systems using LangChain's QAGenerateChain and QAEvalChain combined with OpenAI's moderation API. The project demonstrates the framework using financial advice as a domain example, but the methodology is designed to be adaptable across various domains requiring robust content evaluation, safety controls, and quality assurance.
+A comprehensive approaches for evaluating and moderating LLM-powered systems using LangChain's QAGenerateChain and QAEvalChain combined with OpenAI's moderation API. This project demonstrates the framework using financial advice as a domain example, but the methodology is designed to be adaptable across various domains requiring robust content evaluation, safety controls, and quality assurance.
 
 ## Features
 
